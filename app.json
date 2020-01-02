@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Currency Converter",
+    "slug": "CurrencyConverter",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    
+  }
+}
